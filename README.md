@@ -10,7 +10,7 @@ To clean a messy used car dataset and evaluate a baseline model using Mean Absol
 - MAE evaluation
 
 ## Result
-Baseline MAE: ______
+Baseline MAE: 551116.1133220675
 
 ## Tools Used
 - Python
